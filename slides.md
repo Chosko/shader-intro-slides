@@ -2,6 +2,8 @@
 
 by [Chosko](https://chosko.com)
 
+<span class="font-size-40">You can now [Download the Unity Demo](shader-intro-demo.unitypackage) presented during the lesson</span>
+
 ---
 
 ## Premise
@@ -464,9 +466,16 @@ The Rendering Pipeline in Unity is configured by Components and Assets.
 
 ## Further reading
 
-* Rendering Pipeline
-    * Mathematics for 3D Game Programming and Computer Graphics - Third Edition - Eric Lengyel - Chapter 1
-    * [My thesis](https://www.dropbox.com/s/egvywh1eayqken3/thesis.pdf?dl=0) - Chapter 2 
-* Fragment shaders
-    * [The Book of Shaders](https://thebookofshaders.com/) - an online interactive book
-    * [ShaderToy](https://www.shadertoy.com) - Build and share your best shaders with the world and get inspired
+<ul class="font-size-80">
+    <li>Rendering Pipeline</li>
+        <ul>
+            <li>Mathematics for 3D Game Programming and Computer Graphics - Third Edition - Eric Lengyel - Chapter 1</li>
+            <li>[My thesis](https://www.dropbox.com/s/egvywh1eayqken3/thesis.pdf?dl=0) - Chapter 2 </li>
+        </ul>
+    <li>Fragment shaders</li>
+        <ul>
+            <li>[The Book of Shaders](https://thebookofshaders.com/) - an online interactive book</li>
+            <li>[ShaderToy](https://www.shadertoy.com) - Build and share your best shaders with the world and get inspired</li>
+        </ul>
+    <li>[Unity Demo](shader-intro-demo.unitypackage) presented during the lesson</li>
+</ul>
