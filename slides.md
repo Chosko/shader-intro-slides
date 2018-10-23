@@ -8,7 +8,7 @@ by [Chosko](https://chosko.com)
 
 The informations contained in these slides are *intentionally simplified* and *sometimes inaccurate* in order to expose the concepts as easy as possible.
 
-===
+------------
 
 ## Summary
 
@@ -18,7 +18,7 @@ The informations contained in these slides are *intentionally simplified* and *s
 * Rendering in Unity
 * Further reading
 
-===
+------------
 
 # Question Time
 
@@ -90,7 +90,7 @@ A shader is a **program** that runs on **GPU**.
 
 ...in a **convenient** way?
 
-===
+------------
 
 ## Summary
 
@@ -100,7 +100,7 @@ A shader is a **program** that runs on **GPU**.
 * Rendering in Unity
 * Further reading
 
-===
+------------
 
 # Real-time rendering
 
@@ -121,7 +121,7 @@ A shader is a **program** that runs on **GPU**.
     <li class="fragment">This sequence of simple operations is organized into a pipeline: the **Rendering Pipeline**</li>
 </ul>
 
-===
+------------
 
 ## Summary
 
@@ -131,7 +131,7 @@ A shader is a **program** that runs on **GPU**.
 * Rendering in Unity
 * Further reading
 
-===
+------------
 
 # The Rendering Pipeline
 
@@ -363,7 +363,7 @@ It's a stage made of some sub-stages
 
 <img class="fragment" src="img/fragment-operations.png">
 
-===
+------------
 
 ## Summary
 
@@ -373,7 +373,7 @@ It's a stage made of some sub-stages
 * **Rendering in Unity**
 * Further reading
 
-===
+------------
 
 # Rendering in Unity
 
@@ -446,7 +446,7 @@ The Rendering Pipeline in Unity is configured by Components and Assets.
 
 <img class="fragment" src="img/fragment-operations.png">
 
-===
+------------
 
 ## Summary
 
@@ -456,7 +456,7 @@ The Rendering Pipeline in Unity is configured by Components and Assets.
 * Rendering in Unity
 * **Further reading**
 
-===
+------------
 
 # Further reading
 
