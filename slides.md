@@ -4,7 +4,7 @@ by [Chosko](https://chosko.com)
 
 <span class="font-size-40">You can now [Download the Unity Demo](shader-intro-demo.unitypackage) presented during the lesson and watch the [video of the lesson](https://youtu.be/AhWpX5DaYvE)</span>
 
-<span class="font-size-40">Next chapter: [Efficient Shading](https://efficient-shading-slides.chosko.com)</span>
+<span class="font-size-40">Next chapter: [Efficient Shading](http://efficient-shading-slides.chosko.com)</span>
 
 ---
 
@@ -479,7 +479,7 @@ The Rendering Pipeline in Unity is configured by Components and Assets.
             <li>[The Book of Shaders](https://thebookofshaders.com/) - an online interactive book</li>
             <li>[ShaderToy](https://www.shadertoy.com) - Build and share your best shaders with the world and get inspired</li>
         </ul>
-    <li>Next chapter: [Efficient Shading](https://efficient-shading-slides.chosko.com)</li>
+    <li>Next chapter: [Efficient Shading](http://efficient-shading-slides.chosko.com)</li>
     <li>[Unity Demo](shader-intro-demo.unitypackage) presented during the lesson</li>
     <li>Watch the [video of the lesson](https://youtu.be/AhWpX5DaYvE)</li>
 </ul>
